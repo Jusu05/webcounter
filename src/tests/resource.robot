@@ -17,3 +17,6 @@ Open And Configure Browser
     END
     New Context
     New Page  about:blank
+
+Set Counter Value To Zero
+    Click  button >> text=Nollaa
